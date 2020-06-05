@@ -7,8 +7,12 @@
 
 Projeto utilizado para consumir a API do GitHub, buscando e listando repositórios e issues.
 
-<img alt="" src="imagens/2.PNG>
-<img alt="" src="imagens/3.PNG>
+<h1 align="center">
+    <img alt="" src="imagens/2.PNG">
+</h1>
+<h1 align="center">
+    <img alt="" src="imagens/3.PNG">
+</h1>
 
 Dúvidas entre em contato pelo <h4 align="center">  <a href="https://www.linkedin.com/in/marco-antonio-monteiro-de-brito-541ba0144/" target="_blank">Linkedin</a> </h4>
 
